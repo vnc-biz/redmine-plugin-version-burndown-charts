@@ -1,0 +1,5 @@
+redmine-plugin-version-burndown-chart (0.1.0.2-precise0) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 03 Aug 2012 21:15:13 +0200

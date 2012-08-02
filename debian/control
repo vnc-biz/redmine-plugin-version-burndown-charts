@@ -1,0 +1,14 @@
+Source: redmine-plugin-version-burndown-chart
+Section: web
+Priority: extra
+Maintainer: Enrico Weigelt, metux IT service <weigelt@metux.de>
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 7)
+
+Package: redmine-plugin-version-burndown-chart
+Architecture: all
+Pre-Depends: debconf
+Depends: redmine-core,
+	 ${misc:Depends}
+Description: Redmine plugin: version burndown charts
+
